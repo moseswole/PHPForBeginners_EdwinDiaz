@@ -28,7 +28,9 @@
 </div>
 
 <div class="row">
-
+<div class="new">
+Made few changes
+</div>
 
 </div>
 
@@ -55,6 +57,7 @@
                 <p><a target="_blank" href="https://www.udemy.com/oop-php-object-oriented-programing-with-project-1-course/?couponCode=APP_10" class="btn btn-primary" role="button">$10 - GET IT</a></p>
             </div>
         </div>
+
     </div>
 
     <div class="col-sm-3">
